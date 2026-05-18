@@ -2,6 +2,8 @@
 
 A full-stack web application for task management built with **Django 5.2.5**. It includes user authentication (sign up, sign in, sign out) and complete CRUD operations for personal tasks. Designed for deployment on **Render** with **PostgreSQL** and static file serving via **WhiteNoise**.
 
+🌍 **Live Demo:** [https://django-auth-crud-1nsi.onrender.com](https://django-auth-crud-1nsi.onrender.com)
+
 ---
 
 ## 🚀 Features
